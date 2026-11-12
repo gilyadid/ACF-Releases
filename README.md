@@ -8,6 +8,6 @@ separate private repository.
 ## Download
 
 Get the latest installer from the [**Releases**](https://github.com/gilyadid/ACF-Releases/releases/latest)
-page and run `AcfSetup.msi`.
+page and run `AcfSetup.exe`.
 
-Each release is versioned `vMajor.Minor.Revision.Build`. The newest release is always tagged `Latest`.
+Each release is versioned `vMajor.Minor.Build`. The newest release is always tagged `Latest`.
